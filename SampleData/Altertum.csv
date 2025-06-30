@@ -1,0 +1,19 @@
+Krieg,Startjahr,Endjahr,Haupt-Aggressor,Parteien Seite Aggressor,Parteien Seite Verteidiger,Opferzahlen Gesamt von,Opferzahlen Gesamt bis,Opferzahlen Zivil von,Opferzahlen Zivil bis,Opferzahlen Militärisch von,Opferzahlen Militärisch bis,Typ des Konflikts,Geografische Region
+Lagaš-Umma-Krieg,-2450,-2400,Lagaš,"Lagaš (unter Eanatum, Entemena)","Umma",n/a,n/a,n/a,n/a,n/a,n/a,Grenzkonflikt;Hegemonialkrieg,Naher Osten
+Akkad-Nagar und Akkad-Ebla-Krieg,-2300,-2250,Akkad,"Akkad (Sargon, Naram-Sin)","Nagar,Ebla,Mari",n/a,n/a,n/a,n/a,n/a,n/a,Eroberungskrieg,Naher Osten
+Babylon-Mari-Krieg,-1761,-1759,Babylon,"Babylon (Hammurapi)","Mari (Zimri-Lim)",n/a,n/a,n/a,n/a,n/a,n/a,Eroberungskrieg,Naher Osten
+Schlacht bei Megiddo,-1457,-1457,Ägypten,"Ägypten (Thutmosis III.)","Koalition kanaanäischer Stadtstaaten (Anf.: König von Kadesch)",3000,8000,n/a,n/a,n/a,n/a,Schlacht;Eroberungskrieg,Naher Osten
+Schlacht bei Qadeš,-1274,-1274,Ägypten,"Ägypten (Ramses II.)","Hethiterreich (Muwatalli II.)",3000,8000,n/a,n/a,n/a,n/a,Schlacht;Hegemonialkrieg,Naher Osten
+Schlacht von Dapur,-1271,-1271,Ägypten,"Ägypten (Ramses II.)","Hethiterreich",n/a,n/a,n/a,n/a,n/a,n/a,Schlacht;Belagerung,Naher Osten
+Schlachtfeld im Tollensetal,-1250,-1250,Unbekannt,"Unbekannte Kriegergruppe A","Unbekannte Kriegergruppe B",n/a,n/a,n/a,n/a,n/a,n/a,Schlacht (Bronzezeitlicher Konflikt),Europa
+Schlacht im Libyerkrieg Merenptahs,-1208,-1208,Ägypten,"Ägypten (Merenptah)","Libyer,Seevölker",3000,8000,n/a,n/a,n/a,n/a,Schlacht;Verteidigungskrieg,Nordafrika;Naher Osten
+Schlacht am Berg Kaschiari,-883,-883,Assyrien,"Assyrien (Aššur-nâṣir-apli II.)","Koalition von Nairi-Ländern und Urartu",n/a,n/a,n/a,n/a,n/a,n/a,Schlacht;Eroberungskrieg,Naher Osten
+Schlacht von Qarqar,-853,-853,Assyrien,"Assyrien (Salmanassar III.)","Koalition syrischer und palästinischer Staaten (u.a. Aram-Damaskus,Israel,Hamath)",3000,8000,n/a,n/a,n/a,n/a,Schlacht;Expansionskrieg,Naher Osten
+Syrisch-Ephraimitischer Krieg,-734,-732,Assyrien,"Assyrien (Tiglat-Pileser III.)","Aram-Damaskus,Königreich Israel (Ephraim),Philisterstädte",n/a,n/a,n/a,n/a,n/a,n/a,Interventionskrieg;Eroberungskrieg,Naher Osten
+Schlacht bei El-Theke und Tamna,-701,-701,Assyrien,"Assyrien (Sanherib)","Ägypten (Kuschitische Dynastie),Judäa (Verbündete)",n/a,n/a,n/a,n/a,n/a,n/a,Schlacht,Naher Osten
+Schlacht bei Karkemiš,-605,-605,Babylon;Medien,"Neubabylonisches Reich (Nebukadnezar II.),Medien","Ägypten,Rest-Assyrien",3000,8000,n/a,n/a,n/a,n/a,Schlacht;Hegemonialkrieg,Naher Osten
+Schlacht am Halys,-585,-585,Medien,"Medien (Kyaxares II.)","Lydien (Alyattes II.)",n/a,n/a,n/a,n/a,n/a,n/a,Schlacht (durch Sonnenfinsternis beendet),Naher Osten
+Schlacht bei Pteria,-547,-547,Perserreich,"Perserreich (Kyros II.)","Lydien (Kroisos)",n/a,n/a,n/a,n/a,n/a,n/a,Schlacht,Naher Osten
+Schlacht bei Thymbra,-547,-546,Perserreich,"Perserreich (Kyros II.)","Lydien (Kroisos),Ägyptische Hilfstruppen",n/a,n/a,n/a,n/a,n/a,n/a,Schlacht,Naher Osten
+Schlacht von Alalia,-540,-535,Etrusker;Karthago,"Etrusker,Karthago","Phokaier (griechische Kolonisten)",n/a,n/a,n/a,n/a,n/a,n/a,Seeschlacht,Europa
+Schlacht bei Pelusium,-525,-525,Perserreich,"Perserreich (Kambyses II.)","Ägypten (Psammetich III.)",30000,50000,n/a,n/a,n/a,n/a,Schlacht;Eroberungskrieg,Nordafrika;Naher Osten
